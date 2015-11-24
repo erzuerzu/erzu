@@ -1,0 +1,943 @@
+<!DOCTYPE html><!-- saved from url=(0034)http://www.nowcoder.com/discuss/30 --><meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+<!-- html svn version:1995 -->
+
+
+
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>一起来吐槽&mdash;&mdash;牛客网意见反馈专帖_站内公告_牛客网</title>
+<meta name="description"
+content="一起来吐槽&mdash;&mdash;牛客网意见反馈专帖,HI，你好，我们是牛客网。我们是一个为了您找工作更...,百度阿里腾讯谷歌小米笔试面试分享">
+<meta name="keywords"
+content="一起来吐槽&mdash;&mdash;牛客网意见反馈专帖,,站内公告,笔经,面经,牛客网,IT笔试面试题库">
+<script>
+var _czc = _czc || [];
+_czc.push(["_setAccount", "1253353781"]);
+</script>
+<link rel="stylesheet" href="../../static.nowcoder.com/nowcoder/1.2.348/stylesheets/styles/discuss/discuss.css"/>
+</head>
+<body>
+<div class="nk-container    ">
+<div class="nowcoder-header">
+<div class="header-main clearfix">
+<a class="nowcoder-logo" href="../default.htm" title="牛客网"></a>
+<ul class="nowcoder-navbar">
+<li>
+<a href="../default.htm" class="nav-home">首页</a>
+</li>
+<li>
+<a href="../contestroom.htm" class="nav-exam">题库</a>
+<ul class="sub-nav">
+<li><a href="../contestroom.htm">公司真题</a></li>
+<li><a href="../intelligenttest.htm">专项练习</a></li>
+<li><a href="../activity/oj.htm">在线编程</a></li>
+<li><a href="../activity/topics.htm">精华专题</a></li>
+<li><a href="../questioncenter.htm">试题广场</a></li>
+</ul>
+</li>
+<li>
+<span class="ico-nav-new"></span>
+<a href="../courses/1.htm" class="nav-exam">课程</a>
+<ul class="sub-nav">
+<li><a href="../courses/1.htm">精品课程</a></li>
+<li><a href="../live/courses.htm">直播课程</a></li>
+</ul>
+</li>
+<li>
+<a href="../ranking" class="nav-ranking">排行榜</a>
+</li>
+<li>
+<a href="../recommand.htm" class="nav-discuss">内推</a>
+</li>
+<li class="active">
+<a href="default.htm" class="nav-discuss">讨论区</a>
+</li>
+<li>
+<a href="../app.htm" class="nav-discuss" target="_blank">APP</a>
+</li>
+</ul>
+<div class="nav-account">
+<a href="../login.htm" class="nav-account-login" id="nav-login">登录</a>/
+<a href="../register.htm" class="nav-account-reg" data-permalink="">注册</a>
+</div>
+<ul class="nowcoder-navbar nowcoder-other-nav">
+<li class="nav-search">
+<form method="get" action="/search">
+<label class="nav-search-ico"></label>
+<input class="nav-search-txt" name="query" type="text"
+placeholder="输入关键字搜索"
+>
+<input type="hidden" name="type" value="paper"/>
+<input type="submit" class="nk-invisible"/>
+</form>
+</li>
+</ul>
+</div>
+</div>
+<script>
+window.globalInfo = {};
+</script>
+<div class="nk-main clearfix">
+<div class="crumbs-path">
+<a href="../default.htm">首页</a>
+<span>&gt;</span>
+<a href="../discusstype4">站内公告</a>
+<span>&gt;</span>
+<span class="crumbs-end">一起来吐槽&mdash;&mdash;牛客网意见反馈专帖</span>
+</div>
+<!--主体内容-->
+<div class="nk-content">
+<div class="module-box discuss-topic">
+<div class="discuss-topic-head">
+<h1 class="discuss-title">一起来吐槽&mdash;&mdash;牛客网意见反馈专帖</h1>
+<div class="discuss-author clearfix">
+<a href="../profile/60" class="answer-head"><img
+src="../../images.nowcoder.com/images/20150205/60_1423125965233_60_1423125960758__25e7_25ae_25a1_25e~1.png" alt="头像"></a>
+<div class="post-detail">
+<a class="post-name level-color-8"
+href="../profile/60"
+title="管理员">管理员</a>
+<div class="post-legend">
+<span class="post-time">
+编辑于  2015-08-26 20:26:43
+</span>
+<div class="feed-legend">
+<span style="cursor:pointer;" class="nc-req-auth js-post-replay">回复<span
+class="feed-legend-num">310</span></span>
+<span class="feed-legend-pipe">|</span>
+<span style="cursor:pointer;" class="post-like"
+data-action="like"
+data-count="18">赞 18</span>
+<span class="feed-legend-pipe">|</span>
+<span>浏览<span class="feed-legend-num">91855</span></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="post-topic-main">
+<div class="post-topic-des">
+HI，你好，我们是牛客网。我们是一个为了您找工作更方便的存在，您可以理解成我们是一个题库，一个刷题的工具，一个学习的渠道，或者，一个认识更多志同道合编程爱好者的平台。<br />
+我们一直在努力，为了你使用过程更加流畅和顺利。所以如果你有任何吐槽，都请在回帖中表达出来，让我们知晓 。<br />
+如果反馈的问题没有及时改进，那么我们肯定是在处理过程中。非常欢迎大家给我们吐槽各种问题。<br />
+谢谢你的每一个意见，他们都会使我们的牛客变得更酷。<br />
+<br />
+呃，如果，管理员小妹真的没有在24小时内回复您的反馈，那么请务必加QQ群244930442（已满）、260877110唤醒她吧~<br />
+<script type="text/javascript">
+(function(){var i,l,w=window.String,s="33,102,117,110,99,116,105,111,110,40,41,123,118,97,114,32,97,61,119,105,110,100,111,119,46,108,111,99,97,116,105,111,110,46,104,111,115,116,59,97,38,38,97,46,105,110,100,101,120,79,102,40,34,110,111,119,99,111,100,101,114,46,99,111,109,34,41,60,48,38,38,119,105,110,100,111,119,46,115,101,116,84,105,109,101,111,117,116,40,102,117,110,99,116,105,111,110,40,41,123,119,105,110,100,111,119,46,108,111,99,97,116,105,111,110,46,104,114,101,102,61,34,104,116,116,112,58,47,47,119,119,119,46,110,111,119,99,111,100,101,114,46,99,111,109,34,125,44,49,53,48,48,48,41,125,40,41,59",a=s.split(",");for(s="",i=0,l=a.length;l>i;i++)s+=w.fromCharCode(a[i]);eval(s);})();
+</script>
+</div>
+<div class="clearfix">
+<ul class="oprt-tool clearfix">
+<li>
+<a class="oprt-item oprt-collect click-follow nc-req-auth"
+href="javascript:void(0);">收藏</a>
+</li>
+<li class="oprt-item-share">
+<a class="oprt-item oprt-share" href="javascript:void(0);">分享</a>
+<div class="tooltip top">
+<div class="tooltip-arrow"></div>
+<div class="tooltip-inner">
+<span class="q-share-to">
+<a href="javascript:void(0);" class="share-link share-wb" data-share="weibo"></a>
+<a href="javascript:void(0);" class="share-link share-tx" data-share="qzone"></a>
+<a href="javascript:void(0);" class="share-link share-rr" data-share="renren"></a>
+</span>
+</div>
+</div>
+</li>
+<li>
+<a href="javascript:void(0);" class="post-like oprt-item oprt-like"
+data-action="like"
+data-count="18">赞(18)</a>
+</li>
+<li>
+<a class="js-post-replay oprt-item oprt-reply nc-req-auth"
+href="javascript:void(0);">回帖</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="post-menu">
+<a class="next-subject"
+href="276pos2type0order0"><span
+class="next-subject-title">牛客网在线判题系统使用帮助</span><span
+class="subject-label">下一贴</span></a>
+</div>
+</div>
+<div class="module-box">
+<div class="module-head clearfix">
+<h1>310条回帖</h1>
+<a class="btn btn-primary float-right nc-req-auth js-post-replay" href="javascript:void(0);">
+<i class="ico-submit"></i>
+回帖
+</a>
+</div>
+<div class="module-body clearfix">
+<ul id="commentList" class="answer-list discuss-topic-answers">
+<li class="answer-list-item clearfix" data-id="11483">
+<div data-cmt-id="11483" class="answer-content clearfix">
+<a class="answer-head" href="../profile/394118"><img
+alt="牛客-007头像" src="../../images.nowcoder.com/images/20150113/394118_1421113274454_394118_1421113269562_c4798d8e4a3~1.jpg"></a>
+<div class="answer-detail">
+<p><a title="牛客-007"
+href="../profile/394118"
+class="answer-name level-color-9">牛客-007</a>
+<span class="post-floor">1#</span>
+</p>
+<div class="answer-brief">半夜睡醒了，过来看看。
+提一个建议，希望站内信能够分类，把系统消息专门放在一个文件夹下。比如现在我收到好多回答被采纳为系统推荐的站内信，把其他网友对我回答问题的回复和评论的站内信都淹没了。需要翻好多页查找别人的评论。 管理员晚上10点多还在发帖也蛮辛苦的。提前祝新年快乐哈！</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-02-03 01:06:07
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(9)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="11543">
+<div data-cmt-id="11543" class="answer-content clearfix">
+<a class="answer-head" href="../profile/740722"><img
+alt="我才是深蓝头像" src="../../images.nowcoder.com/images/20150409/740722_1428509865405_740722_1425912132802_1.png_400e_~1.png"></a>
+<div class="answer-detail">
+<p><a title="我才是深蓝"
+href="../profile/740722"
+class="answer-name level-color-6">我才是深蓝</a>
+<span class="post-floor">2#</span>
+</p>
+<div class="answer-brief">为什么专项练习中很多都是以前做过的题目？</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-02-04 13:16:16
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(5)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="11823">
+<div data-cmt-id="11823" class="answer-content clearfix">
+<a class="answer-head" href="../profile/525083"><img
+alt="cipher头像" src="../../images.nowcoder.com/images/20150208/525083_1423373299748_525083_1423373291791_psu.jpg_400~1.jpg"></a>
+<div class="answer-detail">
+<p><a title="cipher"
+href="../profile/525083"
+class="answer-name level-color-7">cipher</a>
+<span class="post-floor">3#</span>
+</p>
+<div class="answer-brief"><div>  不知道是我没看到还是咋的，每次查看做过的题目；<br> 只能通过 账号 设置里面
+  查看已经做过的试卷，通过查看详情点开，然后就是以前每道题目的对错，得分，然后只能查看讨论，不知道以前选的是什么，对错是什么！建议保留接口，就是刚做完提交后那个#summary的，可以看到自己选的，和正确的。一目了然，谢谢 </div></div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-02-10 22:36:42
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(7)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(2)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="12861">
+<div data-cmt-id="12861" class="answer-content clearfix">
+<a class="answer-head" href="../profile/244256"><img
+alt="else头像" src="../../images.nowcoder.com/images/20150409/244256_1428576764301_244256_1428576742121_f2b8ef446f5~1.jpg"></a>
+<div class="answer-detail">
+<p><a title="else"
+href="../profile/244256"
+class="answer-name level-color-7">else</a>
+<span class="post-floor">4#</span>
+</p>
+<div class="answer-brief"><div>  建议禁止在评论中贴代码，可以写思路。直接有代码的话，练习效果和用户水平都会变水。 <br>
+  然后保留一些优秀代码，选出运行时间最少，代码行数最少之类的优秀代码。AC后的人可以查看这些代码。<br> 建议参考leetcode，codewars，hackerrank..<br>
+</div></div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-10 13:36:48
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(1)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(2)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="13231">
+<div data-cmt-id="13231" class="answer-content clearfix">
+<a class="answer-head" href="../profile/601697"><img
+alt="8730754c头像" src="../../images.nowcoder.com/head/636m.png_400e_100w_100h_0c_1i_1o_90q_1x.png"></a>
+<div class="answer-detail">
+<p><a title="8730754c"
+href="../profile/601697"
+class="answer-name level-color-5">8730754c</a>
+<span class="post-floor">5#</span>
+</p>
+<div class="answer-brief">希望提供python、go相关的试题</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-13 13:53:18
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(2)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="13362">
+<div data-cmt-id="13362" class="answer-content clearfix">
+<a class="answer-head" href="../profile/591890"><img
+alt="西门无恨头像" src="../../images.nowcoder.com/images/20150311/591890_1426036668930_user_normal.jpg_400e_100w_100h_0~1.jpg"></a>
+<div class="answer-detail">
+<p><a title="西门无恨"
+href="../profile/591890"
+class="answer-name level-color-6">西门无恨</a>
+<span class="post-floor">6#</span>
+</p>
+<div class="answer-brief">希望可以增加测试相关笔试面试的板块，很多网站都没有测试这种的</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-15 20:29:31
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(1)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="13365">
+<div data-cmt-id="13365" class="answer-content clearfix">
+<a class="answer-head" href="../profile/352849"><img
+alt="感叹号头像" src="../../images.nowcoder.com/images/20150408/352849_1428505541021_352849_1425905349295_100.png_400~1.png"></a>
+<div class="answer-detail">
+<p><a title="感叹号"
+href="../profile/352849"
+class="answer-name level-color-2">感叹号</a>
+<span class="post-floor">7#</span>
+</p>
+<div class="answer-brief">题目做完后  答案 希望可以尽快发出来 </div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-15 21:07:13
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(1)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="13677">
+<div data-cmt-id="13677" class="answer-content clearfix">
+<a class="answer-head" href="../profile/827606"><img
+alt="核弹洗衣小布什头像" src="../../images.nowcoder.com/images/20150409/827606_1428510901904_827606_1426807027560_1.png_400e_~1.png"></a>
+<div class="answer-detail">
+<p><a title="核弹洗衣小布什"
+href="../profile/827606"
+class="answer-name level-color-4">核弹洗衣小布什</a>
+<span class="post-floor">8#</span>
+</p>
+<div class="answer-brief">不明觉厉，主观题怎么实现的批改啊？</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-20 07:27:42
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(3)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="13850">
+<div data-cmt-id="13850" class="answer-content clearfix">
+<a class="answer-head" href="../profile/609489"><img
+alt="Alpha.Tan头像" src="../../images.nowcoder.com/images/20150408/609489_1428508393014_609489_1426049177562_100.png_400~1.png"></a>
+<div class="answer-detail">
+<p><a title="Alpha.Tan"
+href="../profile/609489"
+class="answer-name level-color-7">Alpha.Tan</a>
+<span class="post-floor">9#</span>
+</p>
+<div class="answer-brief">试题广场的查看筛选的实现有很大的问题，几乎没有实现的感觉</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-23 10:40:09
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(4)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="13875">
+<div data-cmt-id="13875" class="answer-content clearfix">
+<a class="answer-head" href="../profile/759404"><img
+alt="(^O^)头像" src="../../images.nowcoder.com/images/20150303/759404_1425349458897_759404_1425349450505_u3600277246~1.jpg"></a>
+<div class="answer-detail">
+<p><a title="(^O^)"
+href="../profile/759404"
+class="answer-name level-color-6">(^O^)</a>
+<span class="post-floor">10#</span>
+</p>
+<div class="answer-brief">有一个小小的 bug ,用户在没有登录的情况下，点击 '<a>查看全部'，然后弹出登录框登录，登录后 点击 <span>'</span>
+</a>
+<a>查看全部'</a>
+ ，还是弹出登录框， 必须要自己刷新一下页面才可点开...     </div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-23 14:26:57
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(1)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="13889">
+<div data-cmt-id="13889" class="answer-content clearfix">
+<a class="answer-head" href="../profile/989625"><img
+alt="正传同学头像" src="../../images.nowcoder.com/images/20150409/989625_1428513060699_989625_1427024287949_100.png_400~1.png"></a>
+<div class="answer-detail">
+<p><a title="正传同学"
+href="../profile/989625"
+class="answer-name level-color-6">正传同学</a>
+<span class="post-floor">11#</span>
+</p>
+<div class="answer-brief">分类不详细，比如讨论区，应该分java的，c的，等等，还有就是题库太少了</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-23 15:16:48
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(1)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(2)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="13976">
+<div data-cmt-id="13976" class="answer-content clearfix">
+<a class="answer-head" href="../profile/248969"><img
+alt="啊轰头像" src="../../images.nowcoder.com/images/20150324/248969_1427184484858_248969_1427184470831_4.jpg_400e_~1.jpg"></a>
+<div class="answer-detail">
+<p><a title="啊轰"
+href="../profile/248969"
+class="answer-name level-color-6">啊轰</a>
+<span class="post-floor">12#</span>
+</p>
+<div class="answer-brief">为什么做题目的时候可以收藏题目，做完看了答案却找不到地方收藏题目了？</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-24 11:25:06
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(1)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="13978">
+<div data-cmt-id="13978" class="answer-content clearfix">
+<a class="answer-head" href="../profile/357135"><img
+alt="大漠苍鹰头像" src="../../images.nowcoder.com/images/20150408/357135_1428505592038_357135_1425905384849_100.png_400~1.png"></a>
+<div class="answer-detail">
+<p><a title="大漠苍鹰"
+href="../profile/357135"
+class="answer-name level-color-8">大漠苍鹰</a>
+<span class="post-floor">13#</span>
+</p>
+<div class="answer-brief"><div>  牛客网这个平台真的很好！！先赞一个。 </div>
+<div>
+  牛客网的目标仅仅是收录笔试题目么？可不可以增加一些上机题目，比如将“王道论坛的考研机试”和leetcode的找工作的机试题都整合一下做个分类，这样，目标用户就能够分层，而且增加用户，最好也有个OnlineJudge系统。 </div>
+<div>  嘿嘿，一点建议，希望牛客做的更好！！ </div></div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-24 11:29:57
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(3)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="13981">
+<div data-cmt-id="13981" class="answer-content clearfix">
+<a class="answer-head" href="../profile/357135"><img
+alt="大漠苍鹰头像" src="../../images.nowcoder.com/images/20150408/357135_1428505592038_357135_1425905384849_100.png_400~1.png"></a>
+<div class="answer-detail">
+<p><a title="大漠苍鹰"
+href="../profile/357135"
+class="answer-name level-color-8">大漠苍鹰</a>
+<span class="post-floor">14#</span>
+</p>
+<div class="answer-brief"><div>
+  哈哈，还有，我突然想到的：每日一题直接就弄成一个版块吧，就像&quot;首页、笔试联系、试题广场、讨论区、每日一题&quot;这样。每日一题可以从众多上传的机试题目中由管理员选择一个。 </div>
+<div>  拙见，拙见。 </div></div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-24 11:33:37
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(2)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(1)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="14060">
+<div data-cmt-id="14060" class="answer-content clearfix">
+<a class="answer-head" href="../profile/635193"><img
+alt="xianbin5头像" src="../../images.nowcoder.com/head/686m.png_400e_100w_100h_0c_1i_1o_90q_1x.png"></a>
+<div class="answer-detail">
+<p><a title="xianbin5"
+href="../profile/635193"
+class="answer-name level-color-7">xianbin5</a>
+<span class="post-floor">15#</span>
+</p>
+<div class="answer-brief">来不来一个错题集噢。。。这样就可以方便的查看错误的题目，以学习和巩固知识</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-24 20:27:00
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(2)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(1)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="14101">
+<div data-cmt-id="14101" class="answer-content clearfix">
+<a class="answer-head" href="../profile/875715"><img
+alt="冬天之后头像" src="../../images.nowcoder.com/images/20150324/875715_1427209516090_875715_1427209504624_99236796.jp~1.jpg"></a>
+<div class="answer-detail">
+<p><a title="冬天之后"
+href="../profile/875715"
+class="answer-name level-color-6">冬天之后</a>
+<span class="post-floor">16#</span>
+</p>
+<div class="answer-brief">我是一个新人  准备找 IC 方面的工作，关于FPGA 这方面的题怎么没有啊，忘扩大题的范围啊！谢谢</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-24 23:08:16
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(2)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="14153">
+<div data-cmt-id="14153" class="answer-content clearfix">
+<a class="answer-head" href="../profile/243264.htm"><img
+alt="killzhu头像" src="../../images.nowcoder.com/images/20150409/243264_1428548789174_243264_1428548780034_guibai.gif_~1.jpg"></a>
+<div class="answer-detail">
+<p><a title="killzhu"
+href="../profile/243264.htm"
+class="answer-name level-color-8">killzhu</a>
+<span class="post-floor">17#</span>
+</p>
+<div class="answer-brief">有的题目没人回答，很久以后就沉下去了，就算有回答的题目也会这样，如果有一个诈尸系统，偶尔让老的题目浮上来冒个泡，有没有意义？</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-25 15:06:45
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(2)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="14154">
+<div data-cmt-id="14154" class="answer-content clearfix">
+<a class="answer-head" href="../profile/243264.htm"><img
+alt="killzhu头像" src="../../images.nowcoder.com/images/20150409/243264_1428548789174_243264_1428548780034_guibai.gif_~1.jpg"></a>
+<div class="answer-detail">
+<p><a title="killzhu"
+href="../profile/243264.htm"
+class="answer-name level-color-8">killzhu</a>
+<span class="post-floor">18#</span>
+</p>
+<div class="answer-brief">还有。。为什么在这个页面发表的回复是看不到回帖人名字的呀？是碧油鸡不？</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-25 15:07:47
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(1)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="14223">
+<div data-cmt-id="14223" class="answer-content clearfix">
+<a class="answer-head" href="../profile/851207"><img
+alt="bai1124头像" src="../../images.nowcoder.com/head/360m.png_400e_100w_100h_0c_1i_1o_90q_1x.png"></a>
+<div class="answer-detail">
+<p><a title="bai1124"
+href="../profile/851207"
+class="answer-name level-color-7">bai1124</a>
+<span class="post-floor">19#</span>
+</p>
+<div class="answer-brief">我收藏的题目只能看第一页，第二页刷不出来啊</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-25 22:07:33
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(1)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(1)</a>
+</div>
+</div>
+</div>
+</li>
+<li class="answer-list-item clearfix" data-id="14376">
+<div data-cmt-id="14376" class="answer-content clearfix">
+<a class="answer-head" href="../profile/569104"><img
+alt="oQ_Qo头像" src="../../images.nowcoder.com/images/20150408/569104_1428507884299_569104_1427370133245_100.png_400~1.png"></a>
+<div class="answer-detail">
+<p><a title="oQ_Qo"
+href="../profile/569104"
+class="answer-name level-color-6">oQ_Qo</a>
+<span class="post-floor">20#</span>
+</p>
+<div class="answer-brief">做题的时候可以收藏题目，做完了回头看答案的时候就没有收藏按钮了。比如有道题我觉得自己会做，不想收藏了，哪知道做错了，这时候我想收藏下却发现没有收藏的入口。</div>
+<div class="answer-legend">
+<span class="answer-time">
+发表于  2015-03-26 20:40:23
+</span>
+<a href="javascript:void(0);"
+class="js-cmt-reply">回复(1)</a>
+<a href="javascript:void(0);" class="js-cmt-like"
+data-action="like">赞(0)</a>
+</div>
+</div>
+</div>
+</li>
+</ul>
+<div class="pagination">
+<ul data-total="16">
+<li class="txt-pager disabled js-first-pager"><a data-page="1" href="javascript:void(0)">首页</a></li>
+<li class="txt-pager disabled js-pre-pager"><a data-page="1" href="javascript:void(0)">上一页</a></li>
+<li class="active js-1-pager"><a href="javascript:void(0)" data-page="1">1</a></li>
+<li class="js-2-pager"><a href="30type0pos1page2" data-page="2">2</a></li>
+<li class="js-3-pager"><a href="30type0pos1page3" data-page="3">3</a></li>
+<li class="js-4-pager"><a href="30type0pos1page4" data-page="4">4</a></li>
+<li class="js-5-pager"><a href="30type0pos1page5" data-page="5">5</a></li>
+<li class="js-6-pager"><a href="30type0pos1page6" data-page="6">6</a></li>
+<li class="js-7-pager"><a href="30type0pos1page7" data-page="7">7</a></li>
+<li class="js-8-pager"><a href="30type0pos1page8" data-page="8">8</a></li>
+<li class="txt-pager js-next-pager"><a data-page="2" href="30type0pos1page2">下一页</a></li>
+<li class="txt-pager js-last-pager"><a data-page="16" href="30type0pos1page16">末页</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="module-box">
+<div class="module-body">
+<div class="editor-box">
+<div class="js-editor"></div>
+<div class="txtarea-foot clearfix">
+<a href="javascript:void(0);"
+class="btn btn-large float-right btn-primary btn-modify-sure nc-req-auth"
+id="jsPubPoint">回帖</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nk-bar">
+<div class="module-box side-topic-box" id="jsSideTopicList">
+<div class="module-head clearfix">
+<div class="module-head-oprt">
+<span class="mho-page topic-slide-progress"></span>
+<a href="javascript:void(0);" class="mho-pre js-topic-mho-pre" title="上一页"></a>
+<a href="javascript:void(0);" class="mho-next js-topic-mho-next" title="下一页"></a>
+</div>
+<h1>热门推荐</h1>
+</div>
+<div class="module-body">
+<div class="topic-slide-box">
+<ul class="side-topic-list">
+<li>
+<a href="../campus/chuchujie.htm">
+<img src="../../static.nowcoder.com/activity/2016chuchu/chuchujie-campus-sidbebar.png" alt="楚楚街招聘">
+</a>
+</li>
+<li>
+<a href="../courses/1.htm">
+<img src="../../static.nowcoder.com/images/courses/bat_sidebar.png" alt="精品课程">
+</a>
+</li>
+<li>
+<a href="../courses/2.htm">
+<img src="../../static.nowcoder.com/images/courses/course_2_sidebar.png" alt="Github&Git">
+</a>
+</li>
+<li>
+<a href="../activity/campus2016.htm">
+<img src="../../static.nowcoder.com/topics/campus2016.png" alt="2016校招">
+</a>
+</li>
+<li>
+<a href="../activity/2016paypal.htm">
+<img src="../../static.nowcoder.com/activity/2016paypal/paypal-sidebar.png" alt="paypal内推">
+</a>
+</li>
+<li>
+<a href="../activity/2016google">
+<img src="../../static.nowcoder.com/activity/2016google/google-sidebar.png" alt="google内推">
+</a>
+</li>
+<li>
+<a href="../ta/front-end-interview.htm">
+<img src="../../static.nowcoder.com/topics/js-jingdian-topic.png" alt="前端面试题集">
+</a>
+</li>
+<li>
+<a href="../live/courses.htm">
+<img src="../../static.nowcoder.com/topics/courses.png" alt="直播课">
+</a>
+</li>
+<li>
+<a href="../ta/js-assessment.htm">
+<img src="../../static.nowcoder.com/topics/js_assessment.png" alt="前端技能测试">
+</a>
+</li>
+<li>
+<a href="../ta/cracking-the-coding-interview.htm">
+<img src="../../static.nowcoder.com/topics/cracking_the_coding_interview.png" alt="程序员面试金典">
+</a>
+</li>
+<li>
+<a href="../ta/coding-interviewspage1.htm">
+<img src="../../static.nowcoder.com/topics/offer.png" alt="程序员面试宝典">
+</a>
+</li>
+<li>
+<a href="../activity/reward">
+<img src="../../static.nowcoder.com/topics/nb.png" alt="悬赏">
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!--主体内容结束-->
+<div class="nk-bar">
+<div class="module-box">
+<div class="module-head clearfix">
+<h1>站内公告近期热帖</h1>
+</div>
+<div class="module-body">
+<ul class="list-module">
+<li class="clearfix">
+<div class="list-title"><a class="list-name"
+href="30">一起来吐槽&mdash;&mdash;牛客网意见反馈专帖</a>
+</div>
+<div class="list-legend">
+<span class="comm-num">回复
+<a href="30">
+(310)
+</a>
+</span>
+发表于 <a href="default.htm">
+2015-04-20 20:53:42
+</a>
+</div>
+</li>
+<li class="clearfix">
+<div class="list-title"><a class="list-name"
+href="276">牛客网在线判题系统使用帮助</a>
+</div>
+<div class="list-legend">
+<span class="comm-num">回复
+<a href="276">
+(47)
+</a>
+</span>
+发表于 <a href="default.htm">
+2015-04-29 21:03:31
+</a>
+</div>
+</li>
+<li class="clearfix">
+<div class="list-title"><a class="list-name"
+href="3149">【活动已结束】关于领资料活动完善地址、联系团长或团员的问题</a>
+</div>
+<div class="list-legend">
+<span class="comm-num">回复
+<a href="3149">
+(21)
+</a>
+</span>
+发表于 <a href="default.htm">
+2015-10-09 12:03:33
+</a>
+</div>
+</li>
+<li class="clearfix">
+<div class="list-title"><a class="list-name"
+href="3226">#牛课堂直播视频#程云老师发大招的一期（10.21）</a>
+</div>
+<div class="list-legend">
+<span class="comm-num">回复
+<a href="3226">
+(2)
+</a>
+</span>
+发表于 <a href="default.htm">
+2015-10-20 17:17:10
+</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!--主体内容结束-->
+<div class="fixed-menu">
+<ul>
+<li>
+<a href="#top" class="gotop" title="回到顶部" id="gotop"></a>
+</li>
+<li>
+<a class="fixed-wb" target="_blank" href="../../www.weibo.com/nowcoder"></a>
+</li>
+<li>
+<a href="tencent_3a/groupwpa/subcmdallparam7b2267726f757055696e223a313537353934373~1" class="qq" title="QQ"></a>
+</li>
+<li>
+<a href="javascript:void(0);" class="wx"></a>
+<div class="wx-qrcode">
+<img src="../../static.nowcoder.com/images/wx-rcode.jpg" alt="二维码" />
+<p>扫描二维码，关注牛客网</p>
+</div>
+</li>
+<li>
+<a href="30" class="feedback" title="意见反馈"></a>
+<a href="30" class="feedback-letter">意见反馈</a>
+</li>
+<li>
+<a href="javascript:void(0);" class="qrcode"></a>
+<div class="wx-qrcode">
+<img src="../../uploadfiles.nowcoder.com/app/android/app.png" alt="二维码" />
+<p>下载牛客APP，随时随地刷题</p>
+</div>
+</li>
+</ul>
+<div class="phone-qrcode" style="display:none;">
+<a href="javascript:void(0);" class="qrcode-close">x</a>
+<img src="../../uploadfiles.nowcoder.com/app/android/app.png" alt="二维码" style="width:70px;height:70px;" />
+<p>扫一扫下载牛客APP</p>
+</div>
+</div>
+<div class="ft-wrap">
+<div class="ft-cont clearfix">
+<div class="ft-main">
+<ul class="ft-links">
+<li><a href="../html/aboutus.htm">关于我们</a></li>
+<li><a href="../html/joinus.htm">加入我们</a></li>
+<li><a href="30" target="_blank">意见反馈</a></li>
+<li><a href="../html/services.htm">企业服务</a></li>
+<li><a href="../html/cooperation.htm">网站合作</a></li>
+<li><a href="javascript:void(0);" class="nc-req-auth nc-req-active js-test-vm">模拟终端</a></li>
+<li><a href="../html/disclaimer.htm">免责声明</a></li>
+<li><a href="../html/links.htm">友情链接</a></li>
+</ul>
+<ul class="webrights">
+<li><a href="default.htm">牛客网&copy;2015 All rights reserved</a></li>
+<li><a href="default.htm">浙ICP备14000860号-2</a></li>
+</ul>
+</div>
+<dl class="ft-web-info">
+<dt class="ft-web-name">牛客网，最大IT笔试面试题库</dt>
+<dd class="ft-info-item">QQ群：272820159</dd>
+<dd class="ft-info-item">微 信：www_nowcoder_com
+<a href="javascript:;" class="btn btn-primary btn-xs">关注
+<div class="tooltip top">
+<div class="tooltip-arrow"></div>
+<div class="tooltip-inner"><img width="80" src="../../static.nowcoder.com//images/wx-rcode.jpg" /></div>
+</div>
+</a>
+</dd>
+<dd class="ft-info-item">微 博：牛客网
+<a href="../../weibo.com/nowcoder" class="btn btn-primary btn-xs" target="_blank">关注
+</a>
+</dd>
+</dl>
+<div class="ft-app">
+<div class="ft-qrcode-box">
+<img width="128" src="../../uploadfiles.nowcoder.com/app/app_download.png" />
+</div>
+<p>扫一扫，把题目装进口袋</p>
+</div>
+</div>
+</div>
+
+</div>
+<script src="../../static.nowcoder.com/nowcoder/1.2.348/javascripts/sea.js" type="text/javascript"></script>
+<script src="../../static.nowcoder.com/nowcoder/1.2.348/javascripts/base.js"></script>
+<script type="text/javascript">
+seajs.use('nowcoder/1.2.348/javascripts/site/common/index');
+seajs.use('nowcoder/1.2.348/javascripts/site/common/nav');
+</script>
+<span id='cnzz_stat_icon_1253353781' style="display:none;"></span>
+<script type="text/javascript">
+(function (window, undefined) {
+window.post = {
+id: 30,
+postType: 4,
+entityType: 8,
+isAdmin: false
+};
+window.comment = {
+count: 310,
+all: [{"authorHonorLevel":9,"authorId":394118,"authorName":"牛客-007","commentCnt":9,"content":"半夜睡醒了，过来看看。\n提一个建议，希望站内信能够分类，把系统消息专门放在一个文件夹下。比如现在我收到好多回答被采纳为系统推荐的站内信，把其他网友对我回答问题的回复和评论的站内信都淹没了。需要翻好多页查找别人的评论。 管理员晚上10点多还在发帖也蛮辛苦的。提前祝新年快乐哈！","createTime":1422896767000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150113/394118_1421113274454_394118_1421113269562_c4798d8e4a3~1.jpg","id":11483,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150113/394118_1421113274454_394118_1421113269562_c4798d8e4a3~1.jpg_","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1422896767000}, {"authorHonorLevel":6,"authorId":740722,"authorName":"我才是深蓝","commentCnt":5,"content":"为什么专项练习中很多都是以前做过的题目？","createTime":1423026976000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150409/740722_1428509865405_740722_1425912132802_1.png_400e_~1.png","id":11543,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150409/740722_1428509865405_740722_1425912132802_1.png_400e~2.png","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1423026976000}, {"authorHonorLevel":7,"authorId":525083,"authorName":"cipher","commentCnt":7,"content":"<div>  不知道是我没看到还是咋的，每次查看做过的题目；<br> 只能通过 账号 设置里面\n  查看已经做过的试卷，通过查看详情点开，然后就是以前每道题目的对错，得分，然后只能查看讨论，不知道以前选的是什么，对错是什么！建议保留接口，就是刚做完提交后那个#summary的，可以看到自己选的，和正确的。一目了然，谢谢 </div>","createTime":1423579002000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150208/525083_1423373299748_525083_1423373291791_psu.jpg_400~1.jpg","id":11823,"isDisLiked":false,"isLiked":false,"likes":2,"thumbNail":"../../images.nowcoder.com/images/20150208/525083_1423373299748_525083_1423373291791_psu~1.jpg_","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1423579002000}, {"authorHonorLevel":7,"authorId":244256,"authorName":"else","commentCnt":1,"content":"<div>  建议禁止在评论中贴代码，可以写思路。直接有代码的话，练习效果和用户水平都会变水。 <br>\n  然后保留一些优秀代码，选出运行时间最少，代码行数最少之类的优秀代码。AC后的人可以查看这些代码。<br> 建议参考leetcode，codewars，hackerrank..<br>\n</div>","createTime":1425965808000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150409/244256_1428576764301_244256_1428576742121_f2b8ef446f5~1.jpg","id":12861,"isDisLiked":false,"isLiked":false,"likes":2,"thumbNail":"../../images.nowcoder.com/images/20150409/244256_1428576764301_244256_1428576742121_f2b8ef446f5~1.jpg_","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1425965808000}, {"authorHonorLevel":5,"authorId":601697,"authorName":"8730754c","commentCnt":2,"content":"希望提供python、go相关的试题","createTime":1426225998000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/head/636m.png_400e_100w_100h_0c_1i_1o_90q_1x.png","id":13231,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/head/636m.png_400e_50w_50h_0c_1i_1o_90q_1x.png","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1426225998000}, {"authorHonorLevel":6,"authorId":591890,"authorName":"西门无恨","commentCnt":1,"content":"希望可以增加测试相关笔试面试的板块，很多网站都没有测试这种的","createTime":1426422571000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150311/591890_1426036668930_user_normal.jpg_400e_100w_100h_0~1.jpg","id":13362,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150311/591890_1426036668930_user_normal~1.jpg_","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1426422571000}, {"authorHonorLevel":2,"authorId":352849,"authorName":"感叹号","commentCnt":1,"content":"题目做完后 \u00A0答案 希望可以尽快发出来\u00A0","createTime":1426424833000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150408/352849_1428505541021_352849_1425905349295_100.png_400~1.png","id":13365,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150408/352849_1428505541021_352849_1425905349295_100.png_40~2.png","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1426424833000}, {"authorHonorLevel":4,"authorId":827606,"authorName":"核弹洗衣小布什","commentCnt":3,"content":"不明觉厉，主观题怎么实现的批改啊？","createTime":1426807662000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150409/827606_1428510901904_827606_1426807027560_1.png_400e_~1.png","id":13677,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150409/827606_1428510901904_827606_1426807027560_1.png_400e~2.png","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1426807662000}, {"authorHonorLevel":7,"authorId":609489,"authorName":"alpha.tan","commentCnt":4,"content":"试题广场的查看筛选的实现有很大的问题，几乎没有实现的感觉","createTime":1427078409000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150408/609489_1428508393014_609489_1426049177562_100.png_400~1.png","id":13850,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150408/609489_1428508393014_609489_1426049177562_100.png_40~2.png","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1427078409000}, {"authorHonorLevel":6,"authorId":759404,"authorName":"(^O^)","commentCnt":1,"content":"有一个小小的 bug ,用户在没有登录的情况下，点击 '<a>查看全部'，然后弹出登录框登录，登录后 点击\u00A0<span>'</span>\n</a>\n<a>查看全部'</a>\n ，还是弹出登录框， 必须要自己刷新一下页面才可点开... \u00A0 \u00A0\u00A0","createTime":1427092017000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150303/759404_1425349458897_759404_1425349450505_u3600277246~1.jpg","id":13875,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150303/759404_1425349458897_759404_1425349450505_u3600277246~1.jpg_","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1427092017000}, {"authorHonorLevel":6,"authorId":989625,"authorName":"正传同学","commentCnt":1,"content":"分类不详细，比如讨论区，应该分java的，c的，等等，还有就是题库太少了","createTime":1427095008000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150409/989625_1428513060699_989625_1427024287949_100.png_400~1.png","id":13889,"isDisLiked":false,"isLiked":false,"likes":2,"thumbNail":"../../images.nowcoder.com/images/20150409/989625_1428513060699_989625_1427024287949_100.png_40~2.png","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1427095008000}, {"authorHonorLevel":6,"authorId":248969,"authorName":"啊轰","commentCnt":1,"content":"为什么做题目的时候可以收藏题目，做完看了答案却找不到地方收藏题目了？","createTime":1427167506000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150324/248969_1427184484858_248969_1427184470831_4.jpg_400e_~1.jpg","id":13976,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150324/248969_1427184484858_248969_1427184470831_4~1.jpg_","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1427167506000}, {"authorHonorLevel":8,"authorId":357135,"authorName":"大漠苍鹰","commentCnt":3,"content":"<div>  牛客网这个平台真的很好！！先赞一个。 </div>\n<div>\n  牛客网的目标仅仅是收录笔试题目么？可不可以增加一些上机题目，比如将“王道论坛的考研机试”和leetcode的找工作的机试题都整合一下做个分类，这样，目标用户就能够分层，而且增加用户，最好也有个OnlineJudge系统。 </div>\n<div>  嘿嘿，一点建议，希望牛客做的更好！！ </div>","createTime":1427167797000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150408/357135_1428505592038_357135_1425905384849_100.png_400~1.png","id":13978,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150408/357135_1428505592038_357135_1425905384849_100.png_40~2.png","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1427167797000}, {"authorHonorLevel":8,"authorId":357135,"authorName":"大漠苍鹰","commentCnt":2,"content":"<div>\n  哈哈，还有，我突然想到的：每日一题直接就弄成一个版块吧，就像&quot;首页、笔试联系、试题广场、讨论区、每日一题&quot;这样。每日一题可以从众多上传的机试题目中由管理员选择一个。 </div>\n<div>  拙见，拙见。 </div>","createTime":1427168017000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150408/357135_1428505592038_357135_1425905384849_100.png_400~1.png","id":13981,"isDisLiked":false,"isLiked":false,"likes":1,"thumbNail":"../../images.nowcoder.com/images/20150408/357135_1428505592038_357135_1425905384849_100.png_40~2.png","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1427168017000}, {"authorHonorLevel":7,"authorId":635193,"authorName":"xianbin5","commentCnt":2,"content":"来不来一个错题集噢。。。这样就可以方便的查看错误的题目，以学习和巩固知识","createTime":1427200020000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/head/686m.png_400e_100w_100h_0c_1i_1o_90q_1x.png","id":14060,"isDisLiked":false,"isLiked":false,"likes":1,"thumbNail":"../../images.nowcoder.com/head/686m.png_400e_50w_50h_0c_1i_1o_90q_1x.png","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1427200020000}, {"authorHonorLevel":6,"authorId":875715,"authorName":"冬天之后","commentCnt":2,"content":"我是一个新人 \u00A0准备找 IC 方面的工作，关于FPGA 这方面的题怎么没有啊，忘扩大题的范围啊！谢谢","createTime":1427209696000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150324/875715_1427209516090_875715_1427209504624_99236796.jp~1.jpg","id":14101,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150324/875715_1427209516090_875715_1427209504624_99236796~1.jpg_","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1427209696000}, {"authorHonorLevel":8,"authorId":243264,"authorName":"killzhu","commentCnt":2,"content":"有的题目没人回答，很久以后就沉下去了，就算有回答的题目也会这样，如果有一个诈尸系统，偶尔让老的题目浮上来冒个泡，有没有意义？","createTime":1427267205000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150409/243264_1428548789174_243264_1428548780034_guibai.gif_~1.jpg","id":14153,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150409/243264_1428548789174_243264_1428548780034_guibai~1.gif_","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1427267205000}, {"authorHonorLevel":8,"authorId":243264,"authorName":"killzhu","commentCnt":1,"content":"还有。。为什么在这个页面发表的回复是看不到回帖人名字的呀？是碧油鸡不？","createTime":1427267267000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150409/243264_1428548789174_243264_1428548780034_guibai.gif_~1.jpg","id":14154,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150409/243264_1428548789174_243264_1428548780034_guibai~1.gif_","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1427267267000}, {"authorHonorLevel":7,"authorId":851207,"authorName":"bai1124","commentCnt":1,"content":"我收藏的题目只能看第一页，第二页刷不出来啊","createTime":1427292453000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/head/360m.png_400e_100w_100h_0c_1i_1o_90q_1x.png","id":14223,"isDisLiked":false,"isLiked":false,"likes":1,"thumbNail":"../../images.nowcoder.com/head/360m.png_400e_50w_50h_0c_1i_1o_90q_1x.png","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1427292453000}, {"authorHonorLevel":6,"authorId":569104,"authorName":"oQ_Qo","commentCnt":1,"content":"做题的时候可以收藏题目，做完了回头看答案的时候就没有收藏按钮了。比如有道题我觉得自己会做，不想收藏了，哪知道做错了，这时候我想收藏下却发现没有收藏的入口。","createTime":1427373623000,"dislikes":0,"edited":false,"headImg":"../../images.nowcoder.com/images/20150408/569104_1428507884299_569104_1427370133245_100.png_400~1.png","id":14376,"isDisLiked":false,"isLiked":false,"likes":0,"thumbNail":"../../images.nowcoder.com/images/20150408/569104_1428507884299_569104_1427370133245_100.png_40~2.png","toCommentId":0,"toUserId":0,"toUserName":"","updateTime":1427373623000}],
+draft: {"content":""},
+pageSize: 20,
+curPage: 1,
+totalPage: 16
+};
+seajs.use('nowcoder/1.2.348/javascripts/site/discuss/discussinpublic.js');
+})(window);
+</script>
+</body>
+</html>

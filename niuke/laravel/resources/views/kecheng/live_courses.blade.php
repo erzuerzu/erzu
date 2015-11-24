@@ -1,0 +1,1029 @@
+@extends('app')
+@section('content')
+<link rel="stylesheet" href="../../static.nowcoder.com/nowcoder/1.2.348/stylesheets/styles/course/course.css"/>
+<script>
+window.globalInfo = {};
+</script>
+<div class="topic-banner-box algorithm-banner-box" style="background-color: #313746">
+<div class="topic-banner" style="background: url(../../static.nowcoder.com/images/live/chengyun.png) bottom center no-repeat;
+height: 200px;">
+</div>
+</div>
+<div class="nk-main with-banner-page topic-main clearfix">
+<!--主体内容-->
+<div class="nk-content">
+<div class="module-box course-intro">
+<div class="module-head clearfix">
+<h1>课程简介</h1>
+</div>
+<div class="module-body">
+<p>
+新一轮招聘季即将开始，为帮助大家快速入手准备技术面试，牛客推出“面试常考算法题精讲”系列直播课程，每周三晚八点，由程云老师为大家系统的讲解国内一流互联网公司面试中常见的算法题及考察点，帮大家系统梳理面试所需要的算法知识，提高刷题效率，轻松搞定算法面试。听课同学可加QQ群272820159参与课程及题目讨论。课程相关书籍：<a href="../ebook/interview-guide" target="_blank" class="link-green">《程序员代码面试指南--IT名企算法与数据结构题目最优解》</a>
+</p>
+<div class="oprt-wrap">
+<a href="javascript:void(0);" class="btn btn-primary nc-req-auth js-apply" data-id="0">我要参加</a>
+</div>
+</div>
+</div>
+<div class="module-box">
+<div class="module-head">
+<h1>课程内容</h1>
+</div>
+<div class="module-body">
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/3272" target="_blank">
+这很可能是左老师最后一期牛课堂了
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+10月28日
+</span>
+<span class="act-time-cell">
+19:45
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/3272" target="_blank"
+class="link-green">这很可能是左老师最后一期牛课堂了</a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/3226" target="_blank">
+程云老师发大招的一期
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+10月21日
+</span>
+<span class="act-time-cell">
+19:45
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/3226" target="_blank"
+class="link-green">程云老师发大招的一期</a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/3178" target="_blank">
+名企2016笔试真题精讲
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+10月14日
+</span>
+<span class="act-time-cell">
+19:45
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/3178" target="_blank"
+class="link-green">名企2016笔试真题精讲</a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/3049" target="_blank">
+美团2016笔试真题精讲
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+09月23日
+</span>
+<span class="act-time-cell">
+19:45
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/3049" target="_blank"
+class="link-green">美团2016笔试真题精讲</a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/2968" target="_blank">
+经典算法题精讲（十六）-常见面试题精讲（九）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+09月16日
+</span>
+<span class="act-time-cell">
+19:45
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/2968" target="_blank"
+class="link-green">经典算法题精讲（十六）-常见面试题精讲（九）</a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/2832" target="_blank">
+经典算法题精讲（十五）-常见面试题精讲（八）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+09月09日
+</span>
+<span class="act-time-cell">
+19:45
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/2832" target="_blank"
+class="link-green">经典算法题精讲（十五）-常见面试题精讲（八）</a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/2195" target="_blank">
+经典算法题精讲（十四）-常见面试题精讲（七）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+09月02日
+</span>
+<span class="act-time-cell">
+19:45
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/2195" target="_blank"
+class="link-green">经典算法题精讲（十四）-常见面试题精讲（七）</a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/2056" target="_blank">
+经典算法题精讲（十三）-常见面试题精讲（六）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+08月26日
+</span>
+<span class="act-time-cell">
+19:45
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/2056" target="_blank"
+class="link-green">经典算法题精讲（十三）-常见面试题精讲（六）</a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/2000" target="_blank">
+经典算法题精讲（十二）-常见面试题精讲（五）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+08月19日
+</span>
+<span class="act-time-cell">
+19:45
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/2000" target="_blank"
+class="link-green">经典算法题精讲（十二）-常见面试题精讲（五）</a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/1944" target="_blank">
+经典算法题精讲（十一）-常见面试题精讲（四）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+08月12日
+</span>
+<span class="act-time-cell">
+19:45
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/1944" target="_blank"
+class="link-green">经典算法题精讲（十一）-常见面试题精讲（四）</a>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-ex"></i>题目练习:
+</div>
+<div class="act-item-cont">
+<a target="_blank" href="../test/425673/summary"
+class="link-green"> 经典算法题精讲（十一）-常见面试题精讲（四） </a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/1888" target="_blank">
+经典算法题精讲（十）-经典动态规划题目大串讲（下）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+08月05日
+</span>
+<span class="act-time-cell">
+19:45
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/1888" target="_blank"
+class="link-green">经典算法题精讲（十）-经典动态规划题目大串讲（下）</a>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-ex"></i>题目练习:
+</div>
+<div class="act-item-cont">
+<a target="_blank" href="../test/123743/summary"
+class="link-green"> 经典算法题精讲（十）-经典动态规划题目大串讲（下） </a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/1861" target="_blank">
+经典算法题精讲（九）-经典动态规划题目大串讲（上）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+07月29日
+</span>
+<span class="act-time-cell">
+20:00
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/1861" target="_blank"
+class="link-green">经典算法题精讲（九）-经典动态规划题目大串讲（上）</a>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-ex"></i>题目练习:
+</div>
+<div class="act-item-cont">
+<a target="_blank" href="../test/116376/summary"
+class="link-green"> 经典算法题精讲（九）-经典动态规划题目大串讲（上） </a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/1820" target="_blank">
+经典算法题精讲（八）-从斐波那契数列学习矩阵乘法的优化技巧、从暴力递归到动态规划
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+07月22日
+</span>
+<span class="act-time-cell">
+20:00
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/1820" target="_blank"
+class="link-green">经典算法题精讲（八）-从斐波那契数列学习矩阵乘法的优化技巧、从暴力递归到动态规划</a>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-ex"></i>题目练习:
+</div>
+<div class="act-item-cont">
+<a target="_blank" href="../test/91340/summary"
+class="link-green"> 经典算法题精讲（八）-从斐波那契数列学习矩阵乘法的优化技巧、从暴力递归到动态规划 </a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/1803" target="_blank">
+经典算法题精讲（七）-汉诺塔问题
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+07月15日
+</span>
+<span class="act-time-cell">
+19:50
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/1803" target="_blank"
+class="link-green">经典算法题精讲（七）-汉诺塔问题</a>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-ex"></i>题目练习:
+</div>
+<div class="act-item-cont">
+<a target="_blank" href="../test/76408/summary"
+class="link-green"> 经典算法题精讲（七）-汉诺塔问题 </a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/1739" target="_blank">
+经典算法题精讲（六）-排序有关的面试题、动态规划的空间压缩原理
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+07月08日
+</span>
+<span class="act-time-cell">
+20:00
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/1739" target="_blank"
+class="link-green">经典算法题精讲（六）-排序有关的面试题、动态规划的空间压缩原理</a>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-ex"></i>题目练习:
+</div>
+<div class="act-item-cont">
+<a target="_blank" href="../test/425669/summary"
+class="link-green"> 经典算法题精讲（六）-排序有关的面试题、动态规划的空间压缩原理 </a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/1659" target="_blank">
+经典算法题精讲（五）-Manacher算法、bfprt算法、KMP算法（下）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+06月24日
+</span>
+<span class="act-time-cell">
+20:00
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/1659" target="_blank"
+class="link-green">经典算法题精讲（五）-Manacher算法、bfprt算法、KMP算法（下）</a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/1603" target="_blank">
+经典算法题精讲（四）-Manacher算法、bfprt算法、KMP算法（上）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+06月17日
+</span>
+<span class="act-time-cell">
+20:00
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/1603" target="_blank"
+class="link-green">经典算法题精讲（四）-Manacher算法、bfprt算法、KMP算法（上）</a>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-ex"></i>题目练习:
+</div>
+<div class="act-item-cont">
+<a target="_blank" href="../test/425666/summary"
+class="link-green"> 经典算法题精讲（四）-Manacher算法、bfprt算法、KMP算法（上） </a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/595" target="_blank">
+经典算法题精讲（三）-常见面试题精讲（三）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+06月10日
+</span>
+<span class="act-time-cell">
+20:00
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/595" target="_blank"
+class="link-green">经典算法题精讲（三）-常见面试题精讲（三）</a>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-ex"></i>题目练习:
+</div>
+<div class="act-item-cont">
+<a target="_blank" href="../test/41600/summary"
+class="link-green"> 经典算法题精讲（三）-常见面试题精讲（三） </a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/594" target="_blank">
+经典算法题精讲（二）-常见面试题精讲（二）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+06月03日
+</span>
+<span class="act-time-cell">
+20:00
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/594" target="_blank"
+class="link-green">经典算法题精讲（二）-常见面试题精讲（二）</a>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-ex"></i>题目练习:
+</div>
+<div class="act-item-cont">
+<a target="_blank" href="../test/425660/summary"
+class="link-green"> 经典算法题精讲（二）-常见面试题精讲（二） </a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+<div class="live-mod ">
+<div class="live-mod-hd">
+<a href="../discuss/338" target="_blank">
+经典算法题精讲（一）-常见面试题精讲（一）
+</a>
+</div>
+<div class="live-mod-bd">
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-time"></i>时&emsp;&emsp;间:
+</div>
+<div class="act-item-cont">
+<span class="act-time-cell">
+05月27日
+</span>
+<span class="act-time-cell">
+20:00
+-21:30
+</span>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-cont"></i>课程回顾:
+</div>
+<div class="act-item-cont">
+<a href="../discuss/338" target="_blank"
+class="link-green">经典算法题精讲（一）-常见面试题精讲（一）</a>
+</div>
+</div>
+<div class="act-item">
+<div class="act-label">
+<i class="ico-class-ex"></i>题目练习:
+</div>
+<div class="act-item-cont">
+<a target="_blank" href="../test/425653/summary"
+class="link-green"> 经典算法题精讲（一）-常见面试题精讲（一） </a>
+</div>
+</div>
+<div class="act-oprt">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--主体内容结束-->
+<div class="nk-bar act-bar">
+<div class="module-box teacher-brief">
+<div class="module-head clearfix"><h1>讲师介绍</h1></div>
+<div class="module-body">
+<div class="teacher-info">
+<div class="teacher-pic-box">
+<a class="teacher-pic" href="javascript:void(0)">
+<img src="../../static.nowcoder.com/live/cheng_yun_header.png" height="60" width="60">
+</a>
+</div>
+<h3 class="teacher-name"><a href="javascript:void(0)" title="左程云">左程云</a></h3>
+</div>
+<div class="teacher-resume clearfix">
+<span class="sign-new">简 介</span>华中科技大学本科--计算机科学与技术专业、 芝加哥大学硕士--计算机科学专业。
+IBM软件工程师、 百度软件工程师、 刷题5年的算法热爱者。
+<a class="link-green" href="../ebook/interview-guide" target="_blank">《程序员代码面试指南--IT名企算法与数据结构题目最优解》</a>
+作者，电子工业出版社即将出版发行，书籍涉及算法与数据结构编程题目240道以上，并且个人实现出最优解，大部分题目为面试高频
+</div>
+</div>
+</div>
+<div class="module-box side-topic-box">
+<div class="module-head clearfix">
+<h1>课程相关书籍</h1>
+</div>
+<div class="module-body">
+<ul>
+<li>
+<a href="../ebook/interview-guide">
+<img src="../../static.nowcoder.com/topics/cy-ebook.png" alt="程序员代码面试指南">
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="module-box">
+<div class="module-head clearfix">
+<h1>他们也在学</h1>
+</div>
+<div class="module-body browse-rank">
+<ul class="list-mod " >
+<li>
+<span  style="visibility:hidden" class="browse-num  top-browse  top1 ">1</span>
+<a href="../profile/426841" class="head-pic">
+<img src="../../images.nowcoder.com/head/624m.png_400e_100w_100h_0c_1i_1o_90q_1x.png">
+</a>
+<div class="list-info">
+<div class="list-name">
+<a target="_blank" href="../profile/426841"
+class="level-color-6">Verne</a>
+</div>
+<div class="list-detail">2小时前</div>
+</div>
+</li>
+<li>
+<span  style="visibility:hidden" class="browse-num  top-browse  top2 ">2</span>
+<a href="../profile/926918" class="head-pic">
+<img src="../../images.nowcoder.com/images/20151016/926918_1444968410261_46248016a55c9de5fe1ac004659ab350~1.jpg">
+</a>
+<div class="list-info">
+<div class="list-name">
+<a target="_blank" href="../profile/926918"
+class="level-color-6">SnowYong</a>
+</div>
+<div class="list-detail">18小时前</div>
+</div>
+</li>
+<li>
+<span  style="visibility:hidden" class="browse-num  top-browse  top3 ">3</span>
+<a href="../profile/202593" class="head-pic">
+<img src="../../images.nowcoder.com/images/20151107/202593_1446897439573_5f7c2c60506876716ccf0e706db13d45~1.jpg">
+</a>
+<div class="list-info">
+<div class="list-name">
+<a target="_blank" href="../profile/202593"
+class="level-color-5">牛客202593号</a>
+</div>
+<div class="list-detail">22小时前</div>
+</div>
+</li>
+<li>
+<span  style="visibility:hidden" class="browse-num  top-browse ">4</span>
+<a href="../profile/995659" class="head-pic">
+<img src="../../images.nowcoder.com/images/20150824/995659_1440385396303_5f7c2c60506876716ccf0e706db13d45~1.jpg">
+</a>
+<div class="list-info">
+<div class="list-name">
+<a target="_blank" href="../profile/995659"
+class="level-color-7">nkdxlxc</a>
+</div>
+<div class="list-detail">1天前</div>
+</div>
+</li>
+<li>
+<span  style="visibility:hidden" class="browse-num  top-browse ">5</span>
+<a href="../profile/628074" class="head-pic">
+<img src="../../images.nowcoder.com/images/20150408/628074_1428508604286_628074_1425910720605_1.png_400e_~1.png">
+</a>
+<div class="list-info">
+<div class="list-name">
+<a target="_blank" href="../profile/628074"
+class="level-color-6">霸气战苍穹</a>
+</div>
+<div class="list-detail">1天前</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="module-box side-topic-box" id="jsSideTopicList">
+<div class="module-head clearfix">
+<div class="module-head-oprt">
+<span class="mho-page topic-slide-progress"></span>
+<a href="javascript:void(0);" class="mho-pre js-topic-mho-pre" title="上一页"></a>
+<a href="javascript:void(0);" class="mho-next js-topic-mho-next" title="下一页"></a>
+</div>
+<h1>热门推荐</h1>
+</div>
+<div class="module-body">
+<div class="topic-slide-box">
+<ul class="side-topic-list">
+<li>
+<a href="../campus/chuchujie.htm">
+<img src="../../static.nowcoder.com/activity/2016chuchu/chuchujie-campus-sidbebar.png" alt="楚楚街招聘">
+</a>
+</li>
+<li>
+<a href="../courses/1.htm">
+<img src="../../static.nowcoder.com/images/courses/bat_sidebar.png" alt="精品课程">
+</a>
+</li>
+<li>
+<a href="../courses/2.htm">
+<img src="../../static.nowcoder.com/images/courses/course_2_sidebar.png" alt="Github&Git">
+</a>
+</li>
+<li>
+<a href="../activity/campus2016.htm">
+<img src="../../static.nowcoder.com/topics/campus2016.png" alt="2016校招">
+</a>
+</li>
+<li>
+<a href="../activity/2016paypal.htm">
+<img src="../../static.nowcoder.com/activity/2016paypal/paypal-sidebar.png" alt="paypal内推">
+</a>
+</li>
+<li>
+<a href="../activity/2016google">
+<img src="../../static.nowcoder.com/activity/2016google/google-sidebar.png" alt="google内推">
+</a>
+</li>
+<li>
+<a href="../ta/front-end-interview.htm">
+<img src="../../static.nowcoder.com/topics/js-jingdian-topic.png" alt="前端面试题集">
+</a>
+</li>
+<li>
+<a href="courses.htm">
+<img src="../../static.nowcoder.com/topics/courses.png" alt="直播课">
+</a>
+</li>
+<li>
+<a href="../ta/js-assessment.htm">
+<img src="../../static.nowcoder.com/topics/js_assessment.png" alt="前端技能测试">
+</a>
+</li>
+<li>
+<a href="../ta/cracking-the-coding-interview.htm">
+<img src="../../static.nowcoder.com/topics/cracking_the_coding_interview.png" alt="程序员面试金典">
+</a>
+</li>
+<li>
+<a href="../ta/coding-interviewspage1.htm">
+<img src="../../static.nowcoder.com/topics/offer.png" alt="程序员面试宝典">
+</a>
+</li>
+<li>
+<a href="../activity/reward">
+<img src="../../static.nowcoder.com/topics/nb.png" alt="悬赏">
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fixed-menu">
+<ul>
+<li>
+<a href="#top" class="gotop" title="回到顶部" id="gotop"></a>
+</li>
+<li>
+<a class="fixed-wb" target="_blank" href="../../www.weibo.com/nowcoder"></a>
+</li>
+<li>
+<a href="tencent_3a/groupwpa/subcmdallparam7b2267726f757055696e223a313537353934373~1" class="qq" title="QQ"></a>
+</li>
+<li>
+<a href="javascript:void(0);" class="wx"></a>
+<div class="wx-qrcode">
+<img src="../../static.nowcoder.com/images/wx-rcode.jpg" alt="二维码" />
+<p>扫描二维码，关注牛客网</p>
+</div>
+</li>
+<li>
+<a href="../discuss/30" class="feedback" title="意见反馈"></a>
+<a href="../discuss/30" class="feedback-letter">意见反馈</a>
+</li>
+<li>
+<a href="javascript:void(0);" class="qrcode"></a>
+<div class="wx-qrcode">
+<img src="../../uploadfiles.nowcoder.com/app/android/app.png" alt="二维码" />
+<p>下载牛客APP，随时随地刷题</p>
+</div>
+</li>
+</ul>
+<div class="phone-qrcode" style="display:none;">
+<a href="javascript:void(0);" class="qrcode-close">x</a>
+<img src="../../uploadfiles.nowcoder.com/app/android/app.png" alt="二维码" style="width:70px;height:70px;" />
+<p>扫一扫下载牛客APP</p>
+</div>
+</div>
+@stop
